@@ -17,6 +17,5 @@ To see DIGen arguments, you can run the next command to see how configure the sc
 
 ``
 java -jar DIGen.jar -h
-
 ``
 
