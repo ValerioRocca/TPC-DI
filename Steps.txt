@@ -37,12 +37,17 @@ TPC_DI_RPS = Trunc ( GeoMean (TH, Min(TI1, TI2))
 
 
 <> INCREMENTAL STEPS <>
+-- Alex --
 - DimAccount: .txt
 - DimCustomer: .txt
 - DimTrade: .txt
 - FactCashBalances: .txt
+
+-- Maria --
 - FactHoldings: .txt
 - FactMarketHistory: .txt (longer)
+
+-- Valerio --
 - FactWatches: .txt
 - Prospect: file, not .txt
 
