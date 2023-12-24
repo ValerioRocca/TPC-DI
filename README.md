@@ -1,4 +1,9 @@
 # TPC-DI
+
+## Repo content
+- *Spark.ipynb*, containing TPC-DI implementation for Spark SQL.
+- *ddl*, containing TPC-DI's queries.
+
 ## Download .zip from tpc.org.
 1. Download .zip folder from offical souce and unzip them.
 2. Change the folder PDGF to lowercase: pdgf
