@@ -2,7 +2,8 @@
 
 ## Repo content
 - *Spark.ipynb*, containing TPC-DI implementation for Spark SQL.
-- *ddl*, containing TPC-DI's queries.
+- *ddl* folder, containing TPC-DI's queries.
+- *Report.pdf*, the project's report.
 
 ## Download .zip from tpc.org.
 1. Download .zip folder from offical souce and unzip them.
